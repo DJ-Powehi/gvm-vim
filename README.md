@@ -5,6 +5,7 @@
 ## Requirements
 - Python3 + Pip
 - Docker + Compose + Machine + Virtualbox (MacOS case)
+- yagna - requestor
 - gvmkit-build
 - yapapi
 
@@ -40,9 +41,9 @@
 - yagna payment init -r
 - yagna app-key create requestor
 - export YAGNA_APPKEY={requestor_output}
-- python3 run.py
+- python3 vim-gvm.py
 - chmod +x vim
-- ./vim
+- open vim || ./vim
 
 ## Thanks
 - @thomgabriel for helping out during the process

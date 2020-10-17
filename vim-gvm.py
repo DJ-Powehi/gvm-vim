@@ -4,7 +4,7 @@ from yapapi.log import enable_default_logger, log_summary, log_event_repr
 from yapapi.runner import Engine, Task, vm
 from yapapi.runner.ctx import WorkContext
 
-IMAGE_HASH = '1349c4db6af235533c448ee02h1443fad1fce4f5db2145acdd958ca23'
+IMAGE_HASH = 'b2a3da0703d4d410880367aa46a72cf3d829b95421f4ec0ec39c993b'
 SUBNET_TAG = 'devnet-alpha.2'
 OUTPUT_FILE = 'vim'
 

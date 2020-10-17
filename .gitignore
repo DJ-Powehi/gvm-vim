@@ -25,3 +25,4 @@ env
 .vscode/
 *.gvmi
 vim
+log
